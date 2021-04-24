@@ -8,3 +8,18 @@ body{
     height: 100vh;
     object-fit: cover;
 }
+
+.button{
+    color: white;
+    width: 100px;
+    height: 50px;
+    background-color: coral;
+    height: fit-content;
+    border: none;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 15px;
+
+
+}
