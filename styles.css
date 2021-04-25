@@ -70,9 +70,10 @@ body{
 .white-card{
     background: white;
     position: absolute;
-    top: 0;
-    width: 40%;
-    height: 100%;
+    top: 25%;
+    left: 15%;
+    width: 35%;
+    height: 60%;
 }
 
 .white-card-content{
